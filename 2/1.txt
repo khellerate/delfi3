@@ -1,0 +1,1 @@
+[Warning] UMain.pas(79): Variable 'FQuery' might not have been initialized
